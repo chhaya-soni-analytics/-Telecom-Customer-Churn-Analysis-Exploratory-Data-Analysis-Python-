@@ -38,8 +38,7 @@ plt.title("Monthly Charges Distribution")
 plt.xlabel("Monthly Charges")
 plt.ylabel("Customers")
 plt.show()
-## Monthly Charges Distribution
-![Monthly Charges](monthly_charge_distribution.png)
+
 
 
 #Tenure
@@ -197,6 +196,7 @@ plt.title("Correlation Heatmap")
 plt.xticks(range(len(num_cols)), num_cols, rotation=90)
 plt.yticks(range(len(num_cols)), num_cols)
 plt.show()
+
 
 
 
