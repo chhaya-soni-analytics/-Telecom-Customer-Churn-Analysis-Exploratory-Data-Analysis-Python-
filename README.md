@@ -168,7 +168,8 @@ The insights from this analysis can directly support customer retention strategi
 
 Chhaya Soni
 Aspiring Data Analyst | Python | EDA | SQL | Power BI
-Medium Link: 
+
+Medium Link: https://medium.com/@chayasonidurg/decoding-telecom-customer-churn-a-professional-exploratory-data-analysis-using-python-685bb36e066e?postPublishedType=repub
 
 📬 If you found this project helpful, feel free to ⭐ the repository and connect!
 
