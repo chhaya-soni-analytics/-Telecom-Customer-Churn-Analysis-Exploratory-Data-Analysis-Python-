@@ -12,6 +12,7 @@ df.duplicated().sum()
 df.info()
 df.shape
 
+
 # Converted 0 and 1 values to yes/no for better understanding
      
 def conv(value):
@@ -23,6 +24,10 @@ def conv(value):
 df["SeniorCitizen"] = df["SeniorCitizen"].apply(conv)
 df.head(10)    
 
+## Head
+![Head](df.head(10).png)
+
+
 
 df["Churn"].value_counts()
 
@@ -33,6 +38,9 @@ plt.title("Monthly Charges Distribution")
 plt.xlabel("Monthly Charges")
 plt.ylabel("Customers")
 plt.show()
+## Monthly Charges Distribution
+![Monthly Charges](monthly_charge_distribution.png)
+
 
 #Tenure
 plt.hist(df['tenure'])
@@ -189,6 +197,7 @@ plt.title("Correlation Heatmap")
 plt.xticks(range(len(num_cols)), num_cols, rotation=90)
 plt.yticks(range(len(num_cols)), num_cols)
 plt.show()
+
 
 
 
