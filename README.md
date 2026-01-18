@@ -174,6 +174,3 @@ Medium Link: https://medium.com/@chayasonidurg/decoding-telecom-customer-churn-a
 📬 If you found this project helpful, feel free to ⭐ the repository and connect!
 
 
-Just tell me 👍
-
-ChatGPT can make mistakes. Check important info. See Cookie Preferences.
