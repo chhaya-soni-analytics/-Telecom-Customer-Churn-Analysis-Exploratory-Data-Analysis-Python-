@@ -43,7 +43,7 @@ Contract & tenure information
 
 Language: Python
 
-IDE: Spyder
+IDE: Google Colab
 
 Libraries Used:
 
